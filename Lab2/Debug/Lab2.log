@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\User\Desktop\Lab2_vs2010-main\Lab2\Main.cpp(33,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Lab2.vcxproj -> C:\Users\User\Desktop\Lab2_vs2010-main\Debug\Lab2.exe
